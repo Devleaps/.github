@@ -1,5 +1,5 @@
-![Devleaps](assets/logo-dark.png#gh-dark-mode-only)
-![Devleaps](assets/logo-light.png#gh-light-mode-only)
+![Devleaps](../assets/logo-dark.png#gh-dark-mode-only)
+![Devleaps](../assets/logo-light.png#gh-light-mode-only)
 
 Devleaps is a team of “tech musketeers” all with our own specialism and bound by a single vision:
 
